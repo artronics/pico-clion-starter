@@ -26,5 +26,3 @@ To get serial console, you need to first install "Serial Monitor" plugin and the
 output:
 ![serial console](docs/serial-console.png)
 
-### Caveats
-I commented out usb stdio because, enabling it was causing weird debug behaviour. 

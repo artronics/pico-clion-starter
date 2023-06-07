@@ -2,6 +2,7 @@
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
 
+// This is LED pin for pico. It does NOT work for pico W
 const uint LEDPIN = 25;
 
 int main() {
